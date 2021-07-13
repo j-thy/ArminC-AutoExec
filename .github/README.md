@@ -118,7 +118,7 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
     <!>: Important;
 
 ## Binds
-![ArminC AutoExec Binds](https://raw.githubusercontent.com/ArmynC/ArminC-Keyboard-Layout/master/image/arminc_autoexec_binds.png)
+![ArminC AutoExec Binds](https://raw.githubusercontent.com/jonting/ArminC-AutoExec/master/custom_autoexec_binds.png)
 
 ## Wiki
 
